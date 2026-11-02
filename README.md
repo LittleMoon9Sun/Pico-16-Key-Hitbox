@@ -43,6 +43,8 @@
 
 诚挚感谢 B 站 UP 主 [LOVESONGCCC](https://space.bilibili.com/364015756)、[末日料理师](https://space.bilibili.com/14433725)、[H2xin](https://space.bilibili.com/13518665) 与 [-久寿川](https://space.bilibili.com/1368552)。他们分享的公开教程为本项目提供了许多实用的思路与帮助。
 
+感谢画师 [三花花](https://www.pixiv.net/users/70313191) 和 [布丁守卫者](https://m.tb.cn/h.j6TS9rK?tk=Me2y6ZSsX37) 为本项目的面板图提供的帮助。
+
 ## 使用许可
 
 本项目中作者有权授权的 PCB、外壳设计文件及说明文档采用 **[CC BY-NC 4.0（署名—非商业性使用 4.0 国际许可协议）](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans)**。非商业使用、修改和分享时请遵守署名等协议条件；商业使用需要另行获得权利人的许可。第三方素材与 GP2040-CE 不在此授权范围内，详见 [`说明文档/开源协议说明.md`](说明文档/开源协议说明.md)。
